@@ -7,6 +7,8 @@ dependencies:
     - system
   theme:
     - bear_skin
+_core:
+  default_config_hash: rx9IrdDv7Ldc4kpalZAxdhIPZfYIeOMh1N-qKoQZwHo
 id: bear_skin_main_menu
 theme: bear_skin
 region: header

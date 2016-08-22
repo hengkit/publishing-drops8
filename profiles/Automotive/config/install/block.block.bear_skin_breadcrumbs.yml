@@ -5,6 +5,8 @@ dependencies:
     - system
   theme:
     - bear_skin
+_core:
+  default_config_hash: oXUb3JZR2WW5VOdw4HrhRicCsq51mCgLfRyvheG68ck
 id: bear_skin_breadcrumbs
 theme: bear_skin
 region: breadcrumb

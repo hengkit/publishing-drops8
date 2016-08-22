@@ -1,0 +1,12 @@
+features:
+  node_user_picture: 0
+  comment_user_picture: 0
+  comment_user_verification: 0
+  favicon: 0
+logo:
+  use_default: 0
+  path: themes/bear_skin/bear_coat/images/autoweek-logo.png
+favicon:
+  use_default: 1
+main_layout: null
+sticky_footer: 0

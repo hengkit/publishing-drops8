@@ -5,6 +5,8 @@ dependencies:
     - system
   theme:
     - bear_skin
+_core:
+  default_config_hash: KHQIJ7Vfl25lTjzIc7qIvnuistt-Mw2O0kG4jCofmkI
 id: bear_skin_messages
 theme: bear_skin
 region: highlighted

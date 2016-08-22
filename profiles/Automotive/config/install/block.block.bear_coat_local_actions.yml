@@ -3,6 +3,8 @@ status: true
 dependencies:
   theme:
     - bear_coat
+_core:
+  default_config_hash: 13GQpeITIJsp1kyPniXtWZfyFH87vb1xxJCHifL4UeE
 id: bear_coat_local_actions
 theme: bear_coat
 region: content

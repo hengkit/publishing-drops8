@@ -5,6 +5,8 @@ dependencies:
     - help
   theme:
     - bear_skin
+_core:
+  default_config_hash: 8I8iACSa0sKO3k3jlvUG1ge52rfcKX7USJAQYnzuBgg
 id: bear_skin_help
 theme: bear_skin
 region: content

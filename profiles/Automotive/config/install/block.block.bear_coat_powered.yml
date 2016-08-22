@@ -5,6 +5,8 @@ dependencies:
     - system
   theme:
     - bear_coat
+_core:
+  default_config_hash: jQQUUWN2Uxr5qZtc9zcJKBCxpKY8orN1u2HPqYYRQDI
 id: bear_coat_powered
 theme: bear_coat
 region: footer

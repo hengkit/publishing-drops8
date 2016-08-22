@@ -7,6 +7,8 @@ dependencies:
     - system
   theme:
     - bear_coat
+_core:
+  default_config_hash: rx9IrdDv7Ldc4kpalZAxdhIPZfYIeOMh1N-qKoQZwHo
 id: bear_coat_main_menu
 theme: bear_coat
 region: navigation

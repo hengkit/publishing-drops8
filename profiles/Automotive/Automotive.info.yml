@@ -1,6 +1,6 @@
-name: autoweek
-description: 'Automotive Bundle'
+name: Automotive Profile
 type: profile
+description: 'Automotive Publication Profile'
 core: 8.x
 dependencies:
   - automated_cron
@@ -44,6 +44,5 @@ dependencies:
 themes:
   - bartik
   - seven
-package: autoweek
-distribution:
-  name: autoweek
+  - bear_skin
+  - automotive
