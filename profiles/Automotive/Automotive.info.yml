@@ -4,8 +4,6 @@ description: 'Automotive Publication Profile'
 core: 8.x
 dependencies:
   - automated_cron
-  - autoweek_core
-  - autoweek_site
   - block
   - block_content
   - breakpoint
