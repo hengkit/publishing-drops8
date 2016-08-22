@@ -41,6 +41,7 @@ dependencies:
   - views_ui
 themes:
   - bartik
-  - seven
+  - seven 
   - bear_skin
+  - bear_coat
   - automotive
