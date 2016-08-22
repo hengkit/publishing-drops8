@@ -1,6 +1,16 @@
 <div class="wrapper wrapper--header ">
   <header id="header" role="banner" class="site-header">
-    {{ page.header }}
+    {% if site_logo %}
+  <div class="region region-header">
+      <div id="block-automotive-branding" class="block block-system block-system-branding-block">
+        <div class="site-header__logo">
+          <a href="{{ path('<front>') }}" title="{{ 'Home'|t }}" rel="home">
+            <img src="{{ site_logo }}" alt="{{ 'Home'|t }}" />
+          </a>
+        </div>
+      </div>
+    </div>
+  {% endif %}
     {{ page.navigation }}
     {{ loginpopup|raw }}
     {{ searchbutton|raw }}
