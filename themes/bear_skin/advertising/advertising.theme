@@ -43,7 +43,7 @@ function advertising_preprocess_input__submit(&$variables) {
 
 function advertising_preprocess_page(&$variables) {
 //global $base_path;
-   $variables['site_logo'] = drupal_get_path('theme','advertising').'/images/advertising-age-logo-wht.png';
+   $variables['site_logo'] = '/'.drupal_get_path('theme','advertising').'/images/advertising-age-logo-wht.png';
   $account = \Drupal::currentUser();
   if (theme_get_setting('login_popup')) {
     if ($account->isAnonymous()) {
