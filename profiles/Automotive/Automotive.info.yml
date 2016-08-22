@@ -1,4 +1,4 @@
-name: Automotive Profile
+name: Automotive
 type: profile
 description: 'Automotive Publication Profile'
 core: 8.x
@@ -41,7 +41,7 @@ dependencies:
   - views_ui
 themes:
   - bartik
-  - seven 
+  - seven
   - bear_skin
   - bear_coat
   - automotive
