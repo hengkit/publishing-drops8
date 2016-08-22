@@ -43,8 +43,8 @@ function automotive_preprocess_input__submit(&$variables) {
 
 function automotive_preprocess_page(&$variables) {
 //KIT
-global $base_path;
-   $variables['site_logo'] = $base_path.'/'.drupal_get_path('theme','automotive').'/images/autoweek-logo.png';
+//global $base_path;
+   $variables['site_logo'] = drupal_get_path('theme','automotive').'/images/autoweek-logo.png';
   //$variables['logo'] = str_replace('.svg', '.png', $variables['logo']);
   $account = \Drupal::currentUser();
 
