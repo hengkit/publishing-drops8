@@ -1,6 +1,6 @@
-name: Automotive
+name: Advertising
 type: profile
-description: 'Automotive Publication Profile'
+description: 'Advertising Publication Profile'
 core: 8.x
 dependencies:
   - automated_cron
